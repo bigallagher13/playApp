@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+}
+body {
+  background-image: url("play.jpg");
+}
+
+h1 {
+  text-align: center;
+  font-size: 5em;
+  padding: 1em;
+}
+
+div p{
+  font-weight: bold;
+  font-size: 1.5em;
+  flex-flow: wrap;
+  text-align: center;
+}
+.box {
+    max-width: 400px;
+    margin: 50px auto;
+    border-radius: 1em;
+    padding: 40px;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 20px #00ffcf;
+    background: linear-gradient(rgba(206,253,45,100), rgba(34,193,195,100));
+}
+
+button{
+    margin: 30px;
+    width: 100px;
+    height: 50px;
+    background: #3b4a6b;
+    color: #f0d43a;
+    font-size: 1em;
+    font-family: 'Oswald', sans-serif;
+    border: none;
+    box-shadow: 2px 4px 5px #444;
+    cursor: pointer;
+}
+
+button:hover {
+  color: black;
+}
+
+footer {
+    text-align: right;
+    margin: 20px;
+    font-style: italic;
+    padding: 5em;
+}
