@@ -3,7 +3,7 @@
 //This is made to run using node/express (mostly just to show the range of my knowledge)
 
 you can test the app by just opening the HTML in the browser
-
-run npm install in your terminal,
+OR
+to run server, run npm install in your terminal,
 
 then to start the server, run "npm start" in your terminal (local host: 7000 in your browser)
