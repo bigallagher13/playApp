@@ -4,4 +4,6 @@
 
 you can test the app by just opening the HTML in the browser
 
-to start the server, run "npm start" in your terminal (local host: 7000 in your browser)
+run npm install in your terminal,
+
+then to start the server, run "npm start" in your terminal (local host: 7000 in your browser)
